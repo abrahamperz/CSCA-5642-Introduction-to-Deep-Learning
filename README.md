@@ -1,4 +1,4 @@
-# CSCA 5622: Deep Learning
+# CSCA 5642: Deep Learning
 
 ## Course Information
 - **Institution**: University of Colorado Boulder
