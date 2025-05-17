@@ -2,7 +2,7 @@
 
 ## Course Information
 - **Institution**: University of Colorado Boulder
-- **Course**: [CSCA5622: Deep Learning](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5642)
+- **Course**: [CSCA5642: Deep Learning](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5642)
 - Author: Jose Abraham Perez Martinez
 - **Instructor**: [Professor Geena Kim](https://www.colorado.edu/program/data-science/geena-kim)
 
